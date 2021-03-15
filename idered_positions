@@ -1,0 +1,95 @@
+=> [32m#<PolyTreeNode:0x000055a358702528[0m
+ @children[32m=[0m
+  [[32m#<PolyTreeNode:0x000055a35877c2b0[0m
+    @children[32m=[0m
+     [[32m#<PolyTreeNode:0x000055a35877f550[0m @children[32m=[0m[], @parent[32m=[0m[32m#<PolyTreeNode:0x000055a35877c2b0[0m ...[32m>[0m, @value[32m=[0m[[1;34m7[0m, [1;34m7[0m][32m>[0m,
+      [32m#<PolyTreeNode:0x000055a35877f5a0[0m
+       @children[32m=[0m
+        [[32m#<PolyTreeNode:0x000055a358774d30[0m
+          @children[32m=[0m
+           [[32m#<PolyTreeNode:0x000055a358764de0[0m @children[32m=[0m[], @parent[32m=[0m[32m#<PolyTreeNode:0x000055a358774d30[0m ...[32m>[0m, @value[32m=[0m[[1;34m6[0m, [1;34m6[0m][32m>[0m, [32m#<PolyTreeNode:0x000055a358764d90[0m @children[32m=[0m[], @parent[32m=[0m[32m#<PolyTreeNode:0x000055a358774d30[0m ...[32m>[0m, @value[32m=[0m[[1;34m6[0m, [1;34m2[0m][32m>[0m],
+          @parent[32m=[0m[32m#<PolyTreeNode:0x000055a35877f5a0[0m ...[32m>[0m,
+          @value[32m=[0m[[1;34m5[0m, [1;34m4[0m][32m>[0m,
+         [32m#<PolyTreeNode:0x000055a358774ce0[0m @children[32m=[0m[], @parent[32m=[0m[32m#<PolyTreeNode:0x000055a35877f5a0[0m ...[32m>[0m, @value[32m=[0m[[1;34m6[0m, [1;34m1[0m][32m>[0m],
+       @parent[32m=[0m[32m#<PolyTreeNode:0x000055a35877c2b0[0m ...[32m>[0m,
+       @value[32m=[0m[[1;34m7[0m, [1;34m3[0m][32m>[0m,
+      [32m#<PolyTreeNode:0x000055a35877f640[0m
+       @children[32m=[0m
+        [[32m#<PolyTreeNode:0x000055a3587748d0[0m @children[32m=[0m[], @parent[32m=[0m[32m#<PolyTreeNode:0x000055a35877f640[0m ...[32m>[0m, @value[32m=[0m[[1;34m6[0m, [1;34m7[0m][32m>[0m,
+         [32m#<PolyTreeNode:0x000055a358774880[0m @children[32m=[0m[], @parent[32m=[0m[32m#<PolyTreeNode:0x000055a35877f640[0m ...[32m>[0m, @value[32m=[0m[[1;34m2[0m, [1;34m7[0m][32m>[0m,
+         [32m#<PolyTreeNode:0x000055a358774808[0m
+          @children[32m=[0m
+           [[32m#<PolyTreeNode:0x000055a3587d38d0[0m @children[32m=[0m[], @parent[32m=[0m[32m#<PolyTreeNode:0x000055a358774808[0m ...[32m>[0m, @value[32m=[0m[[1;34m2[0m, [1;34m6[0m][32m>[0m, [32m#<PolyTreeNode:0x000055a3587d3858[0m @children[32m=[0m[], @parent[32m=[0m[32m#<PolyTreeNode:0x000055a358774808[0m ...[32m>[0m, @value[32m=[0m[[1;34m2[0m, [1;34m2[0m][32m>[0m],
+          @parent[32m=[0m[32m#<PolyTreeNode:0x000055a35877f640[0m ...[32m>[0m,
+          @value[32m=[0m[[1;34m3[0m, [1;34m4[0m][32m>[0m],
+       @parent[32m=[0m[32m#<PolyTreeNode:0x000055a35877c2b0[0m ...[32m>[0m,
+       @value[32m=[0m[[1;34m4[0m, [1;34m6[0m][32m>[0m,
+      [32m#<PolyTreeNode:0x000055a35877f6b8[0m
+       @children[32m=[0m[[32m#<PolyTreeNode:0x000055a358774420[0m @children[32m=[0m[], @parent[32m=[0m[32m#<PolyTreeNode:0x000055a35877f6b8[0m ...[32m>[0m, @value[32m=[0m[[1;34m7[0m, [1;34m6[0m][32m>[0m, [32m#<PolyTreeNode:0x000055a3587743d0[0m @children[32m=[0m[], @parent[32m=[0m[32m#<PolyTreeNode:0x000055a35877f6b8[0m ...[32m>[0m, @value[32m=[0m[[1;34m4[0m, [1;34m5[0m][32m>[0m],
+       @parent[32m=[0m[32m#<PolyTreeNode:0x000055a35877c2b0[0m ...[32m>[0m,
+       @value[32m=[0m[[1;34m5[0m, [1;34m7[0m][32m>[0m,
+      [32m#<PolyTreeNode:0x000055a35877f730[0m
+       @children[32m=[0m
+        [[32m#<PolyTreeNode:0x000055a358775780[0m @children[32m=[0m[], @parent[32m=[0m[32m#<PolyTreeNode:0x000055a35877f730[0m ...[32m>[0m, @value[32m=[0m[[1;34m7[0m, [1;34m4[0m][32m>[0m,
+         [32m#<PolyTreeNode:0x000055a358776fb8[0m @children[32m=[0m[], @parent[32m=[0m[32m#<PolyTreeNode:0x000055a35877f730[0m ...[32m>[0m, @value[32m=[0m[[1;34m7[0m, [1;34m2[0m][32m>[0m,
+         [32m#<PolyTreeNode:0x000055a35876ff88[0m @children[32m=[0m[], @parent[32m=[0m[32m#<PolyTreeNode:0x000055a35877f730[0m ...[32m>[0m, @value[32m=[0m[[1;34m4[0m, [1;34m1[0m][32m>[0m],
+       @parent[32m=[0m[32m#<PolyTreeNode:0x000055a35877c2b0[0m ...[32m>[0m,
+       @value[32m=[0m[[1;34m5[0m, [1;34m3[0m][32m>[0m],
+    @parent[32m=[0m[32m#<PolyTreeNode:0x000055a358702528[0m ...[32m>[0m,
+    @value[32m=[0m[[1;34m6[0m, [1;34m5[0m][32m>[0m,
+   [32m#<PolyTreeNode:0x000055a35877c1c0[0m
+    @children[32m=[0m
+     [[32m#<PolyTreeNode:0x000055a35877fbb8[0m @children[32m=[0m[], @parent[32m=[0m[32m#<PolyTreeNode:0x000055a35877c1c0[0m ...[32m>[0m, @value[32m=[0m[[1;34m7[0m, [1;34m5[0m][32m>[0m,
+      [32m#<PolyTreeNode:0x000055a35877fc08[0m @children[32m=[0m[[32m#<PolyTreeNode:0x000055a35876f420[0m @children[32m=[0m[], @parent[32m=[0m[32m#<PolyTreeNode:0x000055a35877fc08[0m ...[32m>[0m, @value[32m=[0m[[1;34m4[0m, [1;34m3[0m][32m>[0m], @parent[32m=[0m[32m#<PolyTreeNode:0x000055a35877c1c0[0m ...[32m>[0m, @value[32m=[0m[[1;34m6[0m, [1;34m4[0m][32m>[0m,
+      [32m#<PolyTreeNode:0x000055a35877fca8[0m @children[32m=[0m[[32m#<PolyTreeNode:0x000055a35876ee80[0m @children[32m=[0m[], @parent[32m=[0m[32m#<PolyTreeNode:0x000055a35877fca8[0m ...[32m>[0m, @value[32m=[0m[[1;34m1[0m, [1;34m6[0m][32m>[0m], @parent[32m=[0m[32m#<PolyTreeNode:0x000055a35877c1c0[0m ...[32m>[0m, @value[32m=[0m[[1;34m3[0m, [1;34m7[0m][32m>[0m,
+      [32m#<PolyTreeNode:0x000055a35877fd20[0m
+       @children[32m=[0m[[32m#<PolyTreeNode:0x000055a35876e840[0m @children[32m=[0m[], @parent[32m=[0m[32m#<PolyTreeNode:0x000055a35877fd20[0m ...[32m>[0m, @value[32m=[0m[[1;34m4[0m, [1;34m7[0m][32m>[0m, [32m#<PolyTreeNode:0x000055a35876e7f0[0m @children[32m=[0m[], @parent[32m=[0m[32m#<PolyTreeNode:0x000055a35877fd20[0m ...[32m>[0m, @value[32m=[0m[[1;34m1[0m, [1;34m4[0m][32m>[0m],
+       @parent[32m=[0m[32m#<PolyTreeNode:0x000055a35877c1c0[0m ...[32m>[0m,
+       @value[32m=[0m[[1;34m3[0m, [1;34m5[0m][32m>[0m],
+    @parent[32m=[0m[32m#<PolyTreeNode:0x000055a358702528[0m ...[32m>[0m,
+    @value[32m=[0m[[1;34m5[0m, [1;34m6[0m][32m>[0m,
+   [32m#<PolyTreeNode:0x000055a35877c148[0m
+    @children[32m=[0m
+     [[32m#<PolyTreeNode:0x000055a358776f40[0m @children[32m=[0m[[32m#<PolyTreeNode:0x000055a35876e188[0m @children[32m=[0m[], @parent[32m=[0m[32m#<PolyTreeNode:0x000055a358776f40[0m ...[32m>[0m, @value[32m=[0m[[1;34m5[0m, [1;34m0[0m][32m>[0m], @parent[32m=[0m[32m#<PolyTreeNode:0x000055a35877c148[0m ...[32m>[0m, @value[32m=[0m[[1;34m7[0m, [1;34m1[0m][32m>[0m,
+      [32m#<PolyTreeNode:0x000055a358776e78[0m @children[32m=[0m[], @parent[32m=[0m[32m#<PolyTreeNode:0x000055a35877c148[0m ...[32m>[0m, @value[32m=[0m[[1;34m5[0m, [1;34m5[0m][32m>[0m,
+      [32m#<PolyTreeNode:0x000055a358776d10[0m
+       @children[32m=[0m
+        [[32m#<PolyTreeNode:0x000055a35876d788[0m @children[32m=[0m[[32m#<PolyTreeNode:0x000055a3587d0608[0m @children[32m=[0m[], @parent[32m=[0m[32m#<PolyTreeNode:0x000055a35876d788[0m ...[32m>[0m, @value[32m=[0m[[1;34m0[0m, [1;34m0[0m][32m>[0m], @parent[32m=[0m[32m#<PolyTreeNode:0x000055a358776d10[0m ...[32m>[0m, @value[32m=[0m[[1;34m2[0m, [1;34m1[0m][32m>[0m,
+         [32m#<PolyTreeNode:0x000055a35876d738[0m @children[32m=[0m[], @parent[32m=[0m[32m#<PolyTreeNode:0x000055a358776d10[0m ...[32m>[0m, @value[32m=[0m[[1;34m3[0m, [1;34m0[0m][32m>[0m],
+       @parent[32m=[0m[32m#<PolyTreeNode:0x000055a35877c148[0m ...[32m>[0m,
+       @value[32m=[0m[[1;34m4[0m, [1;34m2[0m][32m>[0m,
+      [32m#<PolyTreeNode:0x000055a358776c98[0m @children[32m=[0m[[32m#<PolyTreeNode:0x000055a35876d288[0m @children[32m=[0m[], @parent[32m=[0m[32m#<PolyTreeNode:0x000055a358776c98[0m ...[32m>[0m, @value[32m=[0m[[1;34m7[0m, [1;34m0[0m][32m>[0m], @parent[32m=[0m[32m#<PolyTreeNode:0x000055a35877c148[0m ...[32m>[0m, @value[32m=[0m[[1;34m5[0m, [1;34m1[0m][32m>[0m],
+    @parent[32m=[0m[32m#<PolyTreeNode:0x000055a358702528[0m ...[32m>[0m,
+    @value[32m=[0m[[1;34m6[0m, [1;34m3[0m][32m>[0m,
+   [32m#<PolyTreeNode:0x000055a35877c0d0[0m
+    @children[32m=[0m
+     [[32m#<PolyTreeNode:0x000055a3587767c0[0m @children[32m=[0m[], @parent[32m=[0m[32m#<PolyTreeNode:0x000055a35877c0d0[0m ...[32m>[0m, @value[32m=[0m[[1;34m6[0m, [1;34m0[0m][32m>[0m,
+      [32m#<PolyTreeNode:0x000055a358776770[0m @children[32m=[0m[[32m#<PolyTreeNode:0x000055a35876cab8[0m @children[32m=[0m[], @parent[32m=[0m[32m#<PolyTreeNode:0x000055a358776770[0m ...[32m>[0m, @value[32m=[0m[[1;34m1[0m, [1;34m2[0m][32m>[0m], @parent[32m=[0m[32m#<PolyTreeNode:0x000055a35877c0d0[0m ...[32m>[0m, @value[32m=[0m[[1;34m3[0m, [1;34m3[0m][32m>[0m,
+      [32m#<PolyTreeNode:0x000055a3587766f8[0m @children[32m=[0m[[32m#<PolyTreeNode:0x000055a35876c5e0[0m @children[32m=[0m[], @parent[32m=[0m[32m#<PolyTreeNode:0x000055a3587766f8[0m ...[32m>[0m, @value[32m=[0m[[1;34m1[0m, [1;34m0[0m][32m>[0m], @parent[32m=[0m[32m#<PolyTreeNode:0x000055a35877c0d0[0m ...[32m>[0m, @value[32m=[0m[[1;34m3[0m, [1;34m1[0m][32m>[0m,
+      [32m#<PolyTreeNode:0x000055a358776680[0m @children[32m=[0m[], @parent[32m=[0m[32m#<PolyTreeNode:0x000055a35877c0d0[0m ...[32m>[0m, @value[32m=[0m[[1;34m4[0m, [1;34m0[0m][32m>[0m],
+    @parent[32m=[0m[32m#<PolyTreeNode:0x000055a358702528[0m ...[32m>[0m,
+    @value[32m=[0m[[1;34m5[0m, [1;34m2[0m][32m>[0m,
+   [32m#<PolyTreeNode:0x000055a35877c058[0m
+    @children[32m=[0m
+     [[32m#<PolyTreeNode:0x000055a358776248[0m @children[32m=[0m[], @parent[32m=[0m[32m#<PolyTreeNode:0x000055a35877c058[0m ...[32m>[0m, @value[32m=[0m[[1;34m0[0m, [1;34m6[0m][32m>[0m,
+      [32m#<PolyTreeNode:0x000055a3587761f8[0m @children[32m=[0m[[32m#<PolyTreeNode:0x000055a358767928[0m @children[32m=[0m[], @parent[32m=[0m[32m#<PolyTreeNode:0x000055a3587761f8[0m ...[32m>[0m, @value[32m=[0m[[1;34m0[0m, [1;34m5[0m][32m>[0m], @parent[32m=[0m[32m#<PolyTreeNode:0x000055a35877c058[0m ...[32m>[0m, @value[32m=[0m[[1;34m1[0m, [1;34m7[0m][32m>[0m,
+      [32m#<PolyTreeNode:0x000055a358776180[0m @children[32m=[0m[], @parent[32m=[0m[32m#<PolyTreeNode:0x000055a35877c058[0m ...[32m>[0m, @value[32m=[0m[[1;34m0[0m, [1;34m4[0m][32m>[0m,
+      [32m#<PolyTreeNode:0x000055a358776108[0m @children[32m=[0m[[32m#<PolyTreeNode:0x000055a358766f78[0m @children[32m=[0m[], @parent[32m=[0m[32m#<PolyTreeNode:0x000055a358776108[0m ...[32m>[0m, @value[32m=[0m[[1;34m0[0m, [1;34m1[0m][32m>[0m], @parent[32m=[0m[32m#<PolyTreeNode:0x000055a35877c058[0m ...[32m>[0m, @value[32m=[0m[[1;34m1[0m, [1;34m3[0m][32m>[0m],
+    @parent[32m=[0m[32m#<PolyTreeNode:0x000055a358702528[0m ...[32m>[0m,
+    @value[32m=[0m[[1;34m2[0m, [1;34m5[0m][32m>[0m,
+   [32m#<PolyTreeNode:0x000055a35877c8c8[0m
+    @children[32m=[0m
+     [[32m#<PolyTreeNode:0x000055a358775cf8[0m
+       @children[32m=[0m[[32m#<PolyTreeNode:0x000055a3587669b0[0m @children[32m=[0m[], @parent[32m=[0m[32m#<PolyTreeNode:0x000055a358775cf8[0m ...[32m>[0m, @value[32m=[0m[[1;34m0[0m, [1;34m7[0m][32m>[0m, [32m#<PolyTreeNode:0x000055a358766960[0m @children[32m=[0m[], @parent[32m=[0m[32m#<PolyTreeNode:0x000055a358775cf8[0m ...[32m>[0m, @value[32m=[0m[[1;34m0[0m, [1;34m3[0m][32m>[0m],
+       @parent[32m=[0m[32m#<PolyTreeNode:0x000055a35877c8c8[0m ...[32m>[0m,
+       @value[32m=[0m[[1;34m1[0m, [1;34m5[0m][32m>[0m,
+      [32m#<PolyTreeNode:0x000055a358775ca8[0m @children[32m=[0m[], @parent[32m=[0m[32m#<PolyTreeNode:0x000055a35877c8c8[0m ...[32m>[0m, @value[32m=[0m[[1;34m2[0m, [1;34m4[0m][32m>[0m],
+    @parent[32m=[0m[32m#<PolyTreeNode:0x000055a358702528[0m ...[32m>[0m,
+    @value[32m=[0m[[1;34m3[0m, [1;34m6[0m][32m>[0m,
+   [32m#<PolyTreeNode:0x000055a35877c968[0m
+    @children[32m=[0m[[32m#<PolyTreeNode:0x000055a3587758c0[0m @children[32m=[0m[], @parent[32m=[0m[32m#<PolyTreeNode:0x000055a35877c968[0m ...[32m>[0m, @value[32m=[0m[[1;34m0[0m, [1;34m2[0m][32m>[0m, [32m#<PolyTreeNode:0x000055a358775870[0m @children[32m=[0m[], @parent[32m=[0m[32m#<PolyTreeNode:0x000055a35877c968[0m ...[32m>[0m, @value[32m=[0m[[1;34m1[0m, [1;34m1[0m][32m>[0m],
+    @parent[32m=[0m[32m#<PolyTreeNode:0x000055a358702528[0m ...[32m>[0m,
+    @value[32m=[0m[[1;34m2[0m, [1;34m3[0m][32m>[0m,
+   [32m#<PolyTreeNode:0x000055a35877f0c8[0m @children[32m=[0m[[32m#<PolyTreeNode:0x000055a358775460[0m @children[32m=[0m[], @parent[32m=[0m[32m#<PolyTreeNode:0x000055a35877f0c8[0m ...[32m>[0m, @value[32m=[0m[[1;34m2[0m, [1;34m0[0m][32m>[0m], @parent[32m=[0m[32m#<PolyTreeNode:0x000055a358702528[0m ...[32m>[0m, @value[32m=[0m[[1;34m3[0m, [1;34m2[0m][32m>[0m],
+ @parent[32m=[0m[1;36mnil[0m,
+ @value[32m=[0m[[1;34m4[0m, [1;34m4[0m][32m>[0m

@@ -36,7 +36,7 @@ class KnightPathFinder
 
         return returnarray.select do |pos|
             x,y = pos
-            x > 0 && x < 8 && y > 0 && y < 8
+            x >= 0 && x < 8 && y >= 0 && y < 8
         end
     end
 
@@ -70,9 +70,33 @@ class KnightPathFinder
                 current_node.add_child(new_pos_node) #add the node to be child of the current node from the queue
             end 
         end
-    end 
+    end
+
+    def find_path(end_pos)
+        finish_node = @root_node.bfs(end_pos)
+        return trace_path_back(finish_node)
+    end
+
+    def trace_path_back(finish_node)
+        path = [finish_node.value]
+        node = finish_node
+        until node.parent == nil
+            path = [node.parent.value] + path
+            node = node.parent
+        end
+        return path
+    end
 end
 
-kpf = KnightPathFinder.new([4,4])
+kpf = KnightPathFinder.new([0,0])
 kpf.build_move_tree
-p kpf.root_node
+#p kpf.root_node
+#p kpf.considered_positions
+p kpf.find_path([7,6])
+
+#<PolyTreeNode [0,0]>
+# --> has children of all the mvoes
+# find_path is just searching these children with bfs and returning the node with the givn position
+# but its not giving the moves
+
+
