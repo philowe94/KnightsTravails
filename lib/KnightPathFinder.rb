@@ -2,7 +2,7 @@ require_relative "./00_tree_node.rb"
 
 class KnightPathFinder
    
-    attr_reader :considered_positions
+    attr_reader :considered_positions, :root_node
     #pos: [x,y] #starting position
     def initialize(start_pos)
         @start_pos = start_pos
@@ -50,18 +50,29 @@ class KnightPathFinder
     end
 
     def build_move_tree
+        #knight = KnightPathFinder([4,4])
+        #@root_node = PolyTreeNode([4,4])
+        #goal: make @root_node's .children a tree of new moves to all positions
+        #@root_node.add_child(PolyTreeNode([new_move]))
+
         queue = []
-        queue.push(@root_node)
+        queue.push(@root_node) #queue = [root_node(PTN)]
         
-        while @considered_positions.length < 64
+        while queue != []
             current_node = queue.shift
+            #current_node = root_node
 
+            #run new move pos at root_node.value
             new_move_positions(current_node.value).each do |pos|
-                queue << pos
+                #for each new move pos,
+                new_pos_node = PolyTreeNode.new(pos) #make a node out of it
+                queue << new_pos_node #add the node to the queue
+                current_node.add_child(new_pos_node) #add the node to be child of the current node from the queue
             end 
-
         end
     end 
-
-
 end
+
+kpf = KnightPathFinder.new([4,4])
+kpf.build_move_tree
+p kpf.root_node
