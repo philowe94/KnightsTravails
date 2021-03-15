@@ -49,5 +49,19 @@ class KnightPathFinder
         return new_positions
     end
 
+    def build_move_tree
+        queue = []
+        queue.push(@root_node)
+        
+        while @considered_positions.length < 64
+            current_node = queue.shift
+
+            new_move_positions(current_node.value).each do |pos|
+                queue << pos
+            end 
+
+        end
+    end 
+
 
 end
